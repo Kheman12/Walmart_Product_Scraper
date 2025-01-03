@@ -1,0 +1,4 @@
+Here are the required modules for this Project 
+1 Selenium 
+2 Webdriver-manager
+3 undetected-webdriver
